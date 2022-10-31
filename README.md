@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 😄
+
+I am a statistician, and I strive to transform data into understanding by combining fundamental concepts, technical skills, domain expertise and storytelling. 
 
 <!--
 **LiseReynaert/LiseReynaert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
