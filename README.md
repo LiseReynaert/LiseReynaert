@@ -1,6 +1,7 @@
-### Hi there 😄
+### Hi there, I'm Lise 😄
 
 I am a statistician, and I strive to transform data into understanding by combining fundamental concepts, technical skills, domain expertise and storytelling. 
+I am currently insterested in machine learning and NLP.
 
 <!--
 **LiseReynaert/LiseReynaert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
