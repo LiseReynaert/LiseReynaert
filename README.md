@@ -2,7 +2,7 @@
 
 I am a statistician, and I strive to transform data into understanding by combining fundamental concepts, technical skills, domain expertise and storytelling. 
 
-⚡ I am currently insterested in machine learning and NLP, and I enjoy creating funny little project to put what I learn into practice!
+⚡ I am currently interested in machine learning and NLP, and I enjoy creating funny little project to put what I learn into practice!
 
 Welcome to my github page !
 
